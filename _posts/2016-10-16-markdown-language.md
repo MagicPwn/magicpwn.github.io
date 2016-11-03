@@ -329,7 +329,7 @@ string &operator+(const string& A,const string& B) //cpp
 
 流程图和时序图
 ---
-```flow
+flow
 st=>start: start
 e=>end
 op=>operation: My Operration
@@ -337,12 +337,12 @@ cond=>condition: Yes or No?
 st->op->cond
 coud(yes)->e
 coud(no)->op
-```
-```sequence
+
+sequence
 Alice->Bob: Hello Bob,How are you?
 Note right of Bob:Bob thinks
 Bob-->Alice: I am good thanks!
-```
+
 
 
 表情
