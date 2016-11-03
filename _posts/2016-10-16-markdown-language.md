@@ -1,3 +1,10 @@
+---
+layout: post
+title: Markdown语法教程
+description: Markdown是一种非常好的书写语法，应用十分广泛，学习成本也很低，本文简单介绍了其常用的一些语法，以供学习、应用。
+category: blog
+---
+
 README
 ===
 该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
