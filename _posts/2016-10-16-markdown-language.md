@@ -29,7 +29,7 @@ README
 * [图片](#图片)
     * 来源于网络的图片
     * GitHub仓库中的图片
-* [链接](#链接) 
+* [链接](#链接)
     * 文字超链接
         *  链接外部URL
         *  链接本仓库里的URL
@@ -41,7 +41,7 @@ README
     * 复选框列表
 * [块引用](#块引用)
 * [代码高亮](#代码高亮)
-* [表格](#表格) 
+* [表格](#表格)
 * [表情](#表情)
 
 横线
@@ -67,14 +67,14 @@ ___
 
 文本
 ------
-###普通文本
+### 普通文本
 这是一段普通的文本
-###单行文本
-	Hello,大家好，我是果冻虾仁。
+### 单行文本
+    Hello,大家好，我是果冻虾仁。
 
 在一行开头加入1个Tab或者4个空格。
-###文本块
-####语法1
+### 文本块
+#### 语法1
 在连续几行的文本开头加入1个Tab或者4个空格。
 
     欢迎到访
@@ -93,7 +93,7 @@ ___
 文字高亮功能能使行内部分文字高亮，使用一对反引号。
 语法：
 ```
-`linux` `网络编程` `socket` `epoll` 
+`linux` `网络编程` `socket` `epoll`
 ```
 效果：`linux` `网络编程` `socket` `epoll`
 
@@ -153,7 +153,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |#|语法|效果|
 |---|----|-----
 |1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")
-|2|`[我的知乎][zhihu] `|[我的知乎][zhihu] 
+|2|`[我的知乎][zhihu] `|[我的知乎][zhihu]
 |2|`[zhihu]:https://www.zhihu.com/people/jellywong "我的知乎，欢迎关注"`|   
 
 语法2由两部分组成：
@@ -184,7 +184,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 >本文URL标识符都放置于文末
 
 ###锚点
-其实呢，每一个标题都是一个锚点，和HTML的锚点（`#`）类似，比如我们 
+其实呢，每一个标题都是一个锚点，和HTML的锚点（`#`）类似，比如我们
 
 |语法|效果|
 |---|---
@@ -294,8 +294,8 @@ string &operator+(const string& A,const string& B) //cpp
 
 表头1  | 表头2
 --------- | --------
-表格单元  | 表格单元 
-表格单元  | 表格单元 
+表格单元  | 表格单元
+表格单元  | 表格单元
 
 | 表头1  | 表头2|
 | ---------- | -----------|
@@ -354,4 +354,3 @@ Github的Markdown语法支持添加emoji表情，输入不同的符号码（两�
 具体每一个表情的符号码，可以查询GitHub的官方网页[http://www.emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com)。
 
 但是这个网页每次都打开**奇慢**。。所以我整理到了本repo中，大家可以直接在此查看[emoji](./emoji.md)。
-
