@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Note it today
-description: just test if it work!
+description: 使用 screen 管理你的远程会话
 category: blog
 ---
 
