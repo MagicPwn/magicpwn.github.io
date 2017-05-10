@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用 screen 管理你的远程会话
-description:远程登录到 Linux执行一些长时间运行的任务不能关掉窗口或者断开连接，否则这个任务就会被杀掉，一切半途而废了。
+description: 远程登录到 Linux执行一些长时间运行的任务不能关掉窗口或者断开连接，否则这个任务就会被杀掉，一切半途而废了。
 category: blog
 ---
 
